@@ -37,3 +37,10 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+.instructions {
+	border-width: 2px;
+	border-color: gray;
+	border-style: solid;
+
+}
