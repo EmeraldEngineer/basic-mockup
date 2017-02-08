@@ -13,7 +13,6 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
-	background-color: aqua;
 }
 
 .clear {
@@ -45,3 +44,6 @@ body { width: 100%;}
 	border-style: solid;
 }
 
+.dylanpro {
+	background-color: aqua;
+}
