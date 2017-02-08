@@ -44,6 +44,15 @@ body { width: 100%;}
 	border-style: solid;
 }
 
-.dylanpro {
-	background-color: aqua;
+.dylanpro, .clear {
+	background-color: lightskyblue;
+}
+
+.pull-left {
+	float: left;
+	padding: 10px;
+}
+
+.pull-right {
+	float: right;
 }
