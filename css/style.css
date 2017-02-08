@@ -13,6 +13,7 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
+	background-color: aqua;
 }
 
 .clear {
@@ -42,5 +43,5 @@ body { width: 100%;}
 	border-width: 2px;
 	border-color: gray;
 	border-style: solid;
-
 }
+
